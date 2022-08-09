@@ -1,0 +1,12 @@
+Sunucu Paketi Ücretsiz Fakat Eksiklikleri var bunu Ben bilerek bıraktım çünkü her sunucunun sürümü ve isteği farklı oluyor
+c# forms Visual studio İle Özelleştirilebilir O yüzden Saldım 
+-------------------------------------------------------------------
+Eksik Olan 1. şey oyun a girmek için minecraftın java klasörü yok oyna buttonu birşeye yaramıyor orayı değiştirin.
+System.Diagnostics.Process.Start("C:\Riot Games\Riot Client \ RiotClientServices.exe"); (Bu örnektir siz bu iki tırnak içerisindeki yeri değiştiriceksiniz)
+Onun Dışında Sunucu Kareleri yerine Fotoğraf ve Timer ekleyip For Döngüsü İle Döndürebilirsiniz resimler geçişli Olur.
+3.form olan yani oyunu oynama yeri ekranı hareket etmiyor isterseniz mouselook gibi özellikler ekleyebilirsiniz.
+Front End olayı Çoğu Tamamlandı.
+Ad ve şifreyle ilgili Endişeniz Olmasın Oraları Ben yaptım.
+Launcher e Mysql Eklemek İstiyorsanız references bölümünden Mysql.Data adlı referansı ekleyebilirsiniz fakat Mysql.Connector İndirmeniz Gerekir Ücretsizdir.
+Onun Dışında UI ler Photosop Uygulamasından Yapıldı C# Textboxları Ona göre editlendi. form 1 dışında
+Discord XmiSegomu#4785 
